@@ -9,6 +9,21 @@ Features in Design
  - Auto JSON
  - Stars in README generate
  - Show Trends 
+ - Test Forms
+ - Serverless
+ 
+Soft Skills
+
+ - 好奇心
+ - 沟通
+ - 解决问题
+ - 团队合作
+ - 研究 
+ - 创造力
+ - 批判性思维
+ - 职业道德
+ - 情绪管理
+ - 时间管理
 
 ## LICENSE
 
