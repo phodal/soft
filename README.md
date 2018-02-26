@@ -2,6 +2,14 @@
 
 a soft skill self review radar chart
 
+Features in Design
+
+ - HTML Page (Done)
+ - Export CSV
+ - Auto JSON
+ - Stars in README generate
+ - Show Trends 
+
 ## LICENSE
 
 Radar Chart Based on [https://github.com/IngoKl/D3-v4-Radar-Chart-Redesign](https://github.com/IngoKl/D3-v4-Radar-Chart-Redesign)
